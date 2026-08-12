@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vrukshav Viswanath
+- 👋 Hey, I’m @Vrukshav Viswanath
 - 👀 I’m interested in Coding, Piano, Chess
 - 🌱 I’m currently a junior in high school (11th grade)
 - 💞️ I’m looking to collaborate on some ML research projects

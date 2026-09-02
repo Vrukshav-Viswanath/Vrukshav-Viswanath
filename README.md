@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding, Piano, Chess
 - 💞️ I’m looking to collaborate on some ML research projects
 - 📫 Send an email to vvrukshav@gmail.com if you want to contact me!
-- <!--
+
 **Vrukshav-Viswanath/Vrukshav-Viswanath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
